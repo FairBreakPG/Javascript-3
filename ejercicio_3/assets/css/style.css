@@ -1,0 +1,28 @@
+
+.cuadradoUno{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    margin: 0 10px;
+}
+
+.cuadradoDos{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    margin: 0 10px;
+}
+
+.cuadradoTres{
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    margin: 0 10px;
+}
+
+.cuadradoCuatro{
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+    margin: 0 10px;
+}
